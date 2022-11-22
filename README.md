@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Volodymyr
+- 👀 I’m a cybersecurity student
+- 🌱 I’m currently working at Syxsense
